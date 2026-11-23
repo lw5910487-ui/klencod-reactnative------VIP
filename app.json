@@ -1,0 +1,5 @@
+{
+  "name": "VIP",
+  "displayName": "إدارة المخازن | VIP",
+  "android": {"packageName": "com.example.myapp"}
+}
